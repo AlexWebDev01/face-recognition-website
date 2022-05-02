@@ -1,3 +1,6 @@
+**#Hello everyone! This is my front-end code of the final project "Face-recognition" in "Web developer" course of Zero to Master Academy!
+#Thanks a lot to Andrei Neagoi and all of Zero to Master Academy team!**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
